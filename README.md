@@ -1,6 +1,6 @@
 # Grocery Sharing App
 
-Full-Stack Grocery Sharing App for iOS built with [Javascript](hhttps://www.javascript.com/), [Firebase](https://firebase.google.com/), [React-Native](https://reactnative.dev/), [Expo Go](https://expo.dev/go) in 24 hours. 
+Full-Stack Grocery Sharing App for iOS built with [Javascript](https://www.javascript.com/), [Firebase](https://firebase.google.com/), [React-Native](https://reactnative.dev/), [Expo Go](https://expo.dev/go) in 24 hours. 
 
 ![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/938875b4-0a2c-44c7-84c2-4d11f9bee030)
 ![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/f576a98e-240d-470f-80bc-aba625deeda5)
