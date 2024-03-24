@@ -5,10 +5,6 @@ Full-Stack Grocery Sharing App for iOS built with [Javascript](https://www.javas
 ### Description:
 This repository showcases the development of a full-stack Grocery Sharing App for iOS, built using JavaScript, Firebase, React-Native, and Expo Go within a 24-hour timeframe. The app aims to connect individuals with excess food to those in need, fostering a community-driven solution to address hunger and promote sustainability. It also aims to help users save money on groceries by facilitating bulk purchases and sharing among community members, particularly benefiting students and those with limited access to transportation or expensive groceries.
 
-![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/938875b4-0a2c-44c7-84c2-4d11f9bee030)
-![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/f576a98e-240d-470f-80bc-aba625deeda5)
-![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/97adf52e-2a4e-4895-bccb-260ecccec10c)
-
 ### Key Features:
 - Coded a system for creating/sharing posts incorporating image functionality
 - Backend secure authentication login account service for 20,000 students
@@ -19,6 +15,10 @@ This repository showcases the development of a full-stack Grocery Sharing App fo
 
 ### Testing:
 Thoroughly tested for functionality, bugs, user experience, and data integrity to ensure a seamless and reliable app experience.
+
+![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/938875b4-0a2c-44c7-84c2-4d11f9bee030)
+![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/f576a98e-240d-470f-80bc-aba625deeda5)
+![image](https://github.com/yuji-sakaguchi/gro-share/assets/92128100/97adf52e-2a4e-4895-bccb-260ecccec10c)
 
 ## Getting Started
 
